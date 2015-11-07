@@ -1,0 +1,9 @@
+D:\汽车can\CAU\CANREAD\CANREAD\bin\Release\CANREAD.exe
+D:\汽车can\CAU\CANREAD\CANREAD\bin\Release\CANREAD.pdb
+D:\汽车can\CAU\CANREAD\CANREAD\bin\Release\lcm.dll
+D:\汽车can\CAU\CANREAD\CANREAD\obj\x86\Release\CsharpUSBCan.databox.resources
+D:\汽车can\CAU\CANREAD\CANREAD\obj\x86\Release\CsharpUSBCan.MainWin.resources
+D:\汽车can\CAU\CANREAD\CANREAD\obj\x86\Release\CANREAD.Properties.Resources.resources
+D:\汽车can\CAU\CANREAD\CANREAD\obj\x86\Release\CANREAD.csproj.GenerateResource.Cache
+D:\汽车can\CAU\CANREAD\CANREAD\obj\x86\Release\CANREAD.exe
+D:\汽车can\CAU\CANREAD\CANREAD\obj\x86\Release\CANREAD.pdb

@@ -1,0 +1,21 @@
+D:\汽车can\CAU\CANREAD\CANREAD\obj\x86\Debug\CsharpUSBCan.databox.resources
+D:\汽车can\CAU\CANREAD\CANREAD\obj\x86\Debug\CsharpUSBCan.MainWin.resources
+D:\汽车can\CAU\CANREAD\CANREAD\obj\x86\Debug\CANREAD.Properties.Resources.resources
+D:\汽车can\CAU\CANREAD\CANREAD\bin\Debug\CANREAD.exe
+D:\汽车can\CAU\CANREAD\CANREAD\bin\Debug\CANREAD.pdb
+D:\汽车can\CAU\CANREAD\CANREAD\obj\x86\Debug\CANREAD.exe
+D:\汽车can\CAU\CANREAD\CANREAD\obj\x86\Debug\CANREAD.pdb
+D:\汽车can\CAU\CANREAD\CANREAD\obj\x86\Debug\ResolveAssemblyReference.cache
+D:\汽车can\CAU\CANREAD\CANREAD\bin\Debug\CANREAD.exe.config
+D:\汽车can\CAU\CANREAD v2.0\CANREAD\bin\Debug\CANREAD.exe.config
+D:\汽车can\CAU\CANREAD v2.0\CANREAD\obj\x86\Debug\CANREAD.exe
+D:\汽车can\CAU\CANREAD v2.0\CANREAD\obj\x86\Debug\CANREAD.pdb
+D:\汽车can\CAU\CANREAD v2.0\CANREAD\bin\Debug\CANREAD.exe
+D:\汽车can\CAU\CANREAD v2.0\CANREAD\bin\Debug\CANREAD.pdb
+D:\汽车can\CAU\CANREAD v2.0\CANREAD\obj\x86\Debug\ResolveAssemblyReference.cache
+D:\汽车can\CAU\CANREAD v2.0\CANREAD\obj\x86\Debug\CsharpUSBCan.databox.resources
+D:\汽车can\CAU\CANREAD v2.0\CANREAD\obj\x86\Debug\CsharpUSBCan.MainWin.resources
+D:\汽车can\CAU\CANREAD v2.0\CANREAD\obj\x86\Debug\CANREAD.Properties.Resources.resources
+D:\李鹏Code\CANREAD v2.0\CANREAD\bin\Debug\CANREAD.exe.config
+D:\李鹏Code\CANREAD v2.0\CANREAD\obj\x86\Debug\CANREAD.exe
+D:\李鹏Code\CANREAD v2.0\CANREAD\obj\x86\Debug\CANREAD.pdb
